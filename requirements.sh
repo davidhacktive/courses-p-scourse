@@ -13,7 +13,7 @@ set -e
 
 
 # Include datasets in the image
-
+#
 # DATADIR=/usr/local/share/datasets
 # mkdir -p $DATADIR
 # wget -O $DATADIR/iris.csv http://s3.amazonaws.com/assets.datacamp.com/staging/course_2406/datasets/iris.csv
